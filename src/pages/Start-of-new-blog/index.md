@@ -1,23 +1,18 @@
 ---
-title: Welcome to the Blog!
-date: "2018-07-01"
+title: Start of new blog
+date: "2018-12-28"
 featuredImage: './nasa-63032-unsplash.jpg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+This is the start of my new blog where I aim to post a variety of posts about software 
+engineering tips, techniques and architecture. These are mainly aimed as notes for myself, but 
+hopefully others may find them useful...
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+## Hosting
 
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
-
-*   Morbi sit amet turpis a purus
-*   Etiam tempor ultricies mi
-    *   Maecenas auctor enim a volutpat mattis
-*   Sed urna justo, scelerisque consectetur pharetra vitae
-
-Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+The blog is hosted on Netlify using [Ryan Fitzgerald's Gatsby developer blog template](https://github.com/RyanFitzgerald/devblog).
 
 ### Pellentesque consectetur facilisis venenatis
 
